@@ -1,7 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 
 
-WORK_PATH="/home/glbe/Downloads/Waterfox"
+WORK_PATH="$1"
 
 
 idx=1
